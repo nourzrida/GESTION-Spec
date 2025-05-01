@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="seatAvailable">#4CAF50</color>
+    <color name="seatSelected">#FF5722</color>
+    <color name="seatReserved">#9E9E9E</color>
+    <color name="colorVIP">#F44336</color>
+    <color name="colorTurquoise">#00BCD4</color>
+    <color name="colorLightGray">#F5F5F5</color>
+    <color name="colorDarkGray">#616161</color>
+    <color name="colorYellow">#FFC107</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorPremium">#FF5722</color>
+    <color name="colorStandard">#4CAF50</color>
+    <color name="vipSeat">#F44336</color>
+    <color name="premiumSeat">#FF5722</color>
+    <color name="standardSeat">#4CAF50</color>
+</resources>

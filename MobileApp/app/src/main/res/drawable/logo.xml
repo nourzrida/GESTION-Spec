@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M12,12m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- Ticket shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,10.5v3c0,0.83 -0.67,1.5 -1.5,1.5S15,14.33 15,13.5v-3c0,-0.83 0.67,-1.5 1.5,-1.5S18,9.67 18,10.5zM6,10.5v3c0,0.83 0.67,1.5 1.5,1.5S9,14.33 9,13.5v-3C9,9.67 8.33,9 7.5,9S6,9.67 6,10.5zM12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2zM12,20c-4.41,0 -8,-3.59 -8,-8s3.59,-8 8,-8 8,3.59 8,8 -3.59,8 -8,8z" />
+
+    <!-- Ticket perforation line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9.5,8L14.5,8A0.5,0.5 0,0 1,15 8.5L15,15.5A0.5,0.5 0,0 1,14.5 16L9.5,16A0.5,0.5 0,0 1,9 15.5L9,8.5A0.5,0.5 0,0 1,9.5 8z" />
+
+    <!-- Ticket details lines -->
+    <path
+        android:strokeColor="#1976D2"
+        android:strokeWidth="0.5"
+        android:pathData="M10,10L14,10" />
+
+    <path
+        android:strokeColor="#1976D2"
+        android:strokeWidth="0.5"
+        android:pathData="M10,12L14,12" />
+
+    <path
+        android:strokeColor="#1976D2"
+        android:strokeWidth="0.5"
+        android:pathData="M10,14L14,14" />
+</vector>
